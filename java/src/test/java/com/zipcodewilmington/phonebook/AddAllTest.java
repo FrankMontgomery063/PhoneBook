@@ -66,3 +66,4 @@ public class AddAllTest {
         Assert.assertEquals(Arrays.asList(phoneNumbers), actualPhoneNumbers);
     }
 }
+
